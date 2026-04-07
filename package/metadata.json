@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "luisbocanegra17b@gmail.com",
+                "Name": "Luis Bocanegra"
+            }
+        ],
+        "BugReportUrl": "https://github.com/luisbocanegra/plasma-advanced-separator/issues",
+        "Category": "Utilities",
+        "Description": "Customizable separator with settings sync",
+        "Icon": "filename-divider",
+        "Id": "luisbocanegra.advanced_separator",
+        "License": "GPLv2",
+        "Name": "Advanced Separator",
+        "Website": "https://github.com/luisbocanegra/plasma-advanced-separator",
+        "Version": "0.1.0"
+    },
+    "Keywords": "separator",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
