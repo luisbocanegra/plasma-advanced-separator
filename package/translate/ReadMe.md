@@ -4,7 +4,7 @@
 
 |  Locale  |  Lines  | % Done|
 |----------|---------|-------|
-| Template |      38 |       |
+| Template |      41 |       |
 
 
 ## New Translations
