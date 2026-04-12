@@ -88,19 +88,19 @@ ColumnLayout {
                 {
                     label: i18n("Star the project on GitHub"),
                     icon: Qt.resolvedUrl("../../icons/githubstar.svg"),
-                    url: "https://github.com/luisbocanegra/plasma-panel-colorizer",
+                    url: "https://github.com/luisbocanegra/plasma-advanced-separator",
                     backgroundColor: "#29313C"
                 },
                 {
                     label: i18n("Rate in the KDE Store"),
                     icon: Qt.resolvedUrl("../../icons/kde.svg"),
-                    url: "https://store.kde.org/p/2130967",
+                    url: "https://store.kde.org/p/2355537",
                     backgroundColor: "#2C9AFD"
                 },
                 {
                     label: i18n("Translate %1 to your language", Plasmoid.metaData.name),
                     icon: "translate-symbolic",
-                    url: "https://github.com/luisbocanegra/plasma-panel-colorizer/tree/main/package/translate",
+                    url: "https://github.com/luisbocanegra/plasma-advanced-separator/tree/main/package/translate",
                     backgroundColor: root.Kirigami.Theme.linkBackgroundColor
                 }
             ]
