@@ -15,7 +15,7 @@
         "License": "GPLv2",
         "Name": "Advanced Separator",
         "Website": "https://github.com/luisbocanegra/plasma-advanced-separator",
-        "Version": "0.1.0"
+        "Version": "0.1.1"
     },
     "Keywords": "separator",
     "X-Plasma-API-Minimum-Version": "6.0"
