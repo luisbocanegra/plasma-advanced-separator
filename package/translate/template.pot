@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: advanced_separator\n"
 "Report-Msgid-Bugs-To: https://github.com/luisbocanegra/plasma-advanced-separator\n"
-"POT-Creation-Date: 2026-04-11 18:10-0600\n"
+"POT-Creation-Date: 2026-04-12 01:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: ../contents/ui/components/SupportMe.qml
 msgid ""
-"If you enjoy using the plugin please consider sponsoring or donating to support the ongoing maintenance of this and <a href=\"https://github.com/luisbocanegra?"
+"If you enjoy using the plugin please consider sponsoring or donating so I can dedicate more time to maintain and improve this and <a href=\"https://github.com/luisbocanegra?"
 "tab=repositories&q=&type=source&language=&sort=stargazers\">my other projects</a>."
 msgstr ""
 
@@ -140,6 +140,10 @@ msgid "Do not copy the configuration from/to other separators"
 msgstr ""
 
 #: ../contents/ui/configGeneral.qml
+msgid "Width mode:"
+msgstr ""
+
+#: ../contents/ui/configGeneral.qml
 msgid "Height mode:"
 msgstr ""
 
@@ -152,15 +156,23 @@ msgid "Absolute"
 msgstr ""
 
 #: ../contents/ui/configGeneral.qml
-msgid "Height:"
-msgstr ""
-
-#: ../contents/ui/configGeneral.qml
 msgid "Width:"
 msgstr ""
 
 #: ../contents/ui/configGeneral.qml
+msgid "Height:"
+msgstr ""
+
+#: ../contents/ui/configGeneral.qml
+msgid "Top margin:"
+msgstr ""
+
+#: ../contents/ui/configGeneral.qml
 msgid "Left margin:"
+msgstr ""
+
+#: ../contents/ui/configGeneral.qml
+msgid "Bottom margin:"
 msgstr ""
 
 #: ../contents/ui/configGeneral.qml
