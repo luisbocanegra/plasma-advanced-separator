@@ -10,12 +10,14 @@
         "BugReportUrl": "https://github.com/luisbocanegra/plasma-advanced-separator/issues",
         "Category": "Utilities",
         "Description": "Customizable separator with settings sync",
+        "Description[nl]": "Een aanpasbare scheiding, met de mogelijkheid instellingen te klonen",
         "Icon": "filename-divider",
         "Id": "luisbocanegra.advanced_separator",
         "License": "GPLv2",
         "Name": "Advanced Separator",
-        "Website": "https://github.com/luisbocanegra/plasma-advanced-separator",
-        "Version": "0.1.1"
+        "Name[nl]": "Uitgebreide scheiding",
+        "Version": "0.1.1",
+        "Website": "https://github.com/luisbocanegra/plasma-advanced-separator"
     },
     "Keywords": "separator",
     "X-Plasma-API-Minimum-Version": "6.0"
