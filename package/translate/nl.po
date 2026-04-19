@@ -1,4 +1,4 @@
-# Translation of advanced_separator in LANGUAGE
+# Translation of advanced_separator in nl
 # Copyright (C) 2026
 # This file is distributed under the same license as the advanced_separator package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
@@ -25,8 +25,7 @@ msgstr "Uitgebreide scheiding"
 
 #: ../metadata.json
 msgid "Customizable separator with settings sync"
-msgstr ""
-"Een aanpasbare scheiding, met de mogelijkheid instellingen te klonen"
+msgstr "Een aanpasbare scheiding, met de mogelijkheid instellingen te klonen"
 
 #: ../contents/config/config.qml
 msgid "General"
@@ -82,8 +81,8 @@ msgid ""
 "around if there are more separators than colors"
 msgstr ""
 "Stel een lijst op met kleuren die op alle scheidingen moeten worden "
-"toegepast. De kleuren worden een voor een afgegaan als er meer "
-"scheidingen dan kleuren zijn."
+"toegepast. De kleuren worden een voor een afgegaan als er meer scheidingen "
+"dan kleuren zijn."
 
 #: ../contents/ui/components/FormColors.qml
 msgid "Color:"
@@ -125,9 +124,9 @@ msgid ""
 "tab=repositories&q=&type=source&language=&sort=stargazers\">my other "
 "projects</a>."
 msgstr ""
-"Als je graag gebruikmaakt van deze plug-in, overweeg dan om me te "
-"sponsoren of een donatie te doen, zodat ik meer tijd kan vrijmaken voor "
-"dit <a href=\"https://github.com/luisbocanegra?"
+"Als je graag gebruikmaakt van deze plug-in, overweeg dan om me te sponsoren "
+"of een donatie te doen, zodat ik meer tijd kan vrijmaken voor dit <a "
+"href=\"https://github.com/luisbocanegra?"
 "tab=repositories&q=&type=source&language=&sort=stargazers\">andere "
 "projecten</a>."
 
