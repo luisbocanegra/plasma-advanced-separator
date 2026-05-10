@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/luisbocanegra/plasma-advanced-separator/compare/v0.1.1...v0.2.0) (2026-05-10)
+
+
+### Features
+
+* add Dutch translation ([#7](https://github.com/luisbocanegra/plasma-advanced-separator/issues/7)) ([4c50161](https://github.com/luisbocanegra/plasma-advanced-separator/commit/4c50161d6f2367919c4da45dfd594d2d8b8b9772))
+
 ## [0.1.1](https://github.com/luisbocanegra/plasma-advanced-separator/compare/v0.1.0...v0.1.1) (2026-04-12)
 
 
